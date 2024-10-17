@@ -19,7 +19,7 @@ Este proyecto utiliza la biblioteca `tesseract.js` para realizar OCR (Reconocimi
 1. Clona este repositorio en tu máquina local.
 
     ```sh
-    git clone https://github.com/tu_usuario/ocr-text-search.git
+    git clone https://github.com/tu_usuario/imageContentAnalyzer.git
     cd ocr-text-search
     ```
 
