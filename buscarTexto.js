@@ -2,7 +2,7 @@ const Tesseract = require('tesseract.js');
 const leven = require('leven');
 
 // Ruta a la imagen
-const imagePath = 'img/C1.png';
+const imagePath = 'img/muestra.png';
 
 // Función para calcular el porcentaje de similitud
 const calcularSimilitud = (texto1, texto2) => {
